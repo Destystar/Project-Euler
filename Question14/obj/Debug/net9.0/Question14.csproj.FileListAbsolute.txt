@@ -1,0 +1,14 @@
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\bin\Debug\net9.0\Question14.exe
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\bin\Debug\net9.0\Question14.deps.json
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\bin\Debug\net9.0\Question14.runtimeconfig.json
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\bin\Debug\net9.0\Question14.dll
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\bin\Debug\net9.0\Question14.pdb
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\obj\Debug\net9.0\Question14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\obj\Debug\net9.0\Question14.AssemblyInfoInputs.cache
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\obj\Debug\net9.0\Question14.AssemblyInfo.cs
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\obj\Debug\net9.0\Question14.csproj.CoreCompileInputs.cache
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\obj\Debug\net9.0\Question14.dll
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\obj\Debug\net9.0\refint\Question14.dll
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\obj\Debug\net9.0\Question14.pdb
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\obj\Debug\net9.0\Question14.genruntimeconfig.cache
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question14\obj\Debug\net9.0\ref\Question14.dll
