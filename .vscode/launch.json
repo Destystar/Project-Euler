@@ -4,6 +4,13 @@
       "type": "java",
       "name": "Program",
       "request": "launch",
+      "mainClass": "Question29.Program",
+      "projectName": "Project Euler_2870700"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
       "mainClass": "Question25.Program",
       "projectName": "Project Euler_2870700"
     },
