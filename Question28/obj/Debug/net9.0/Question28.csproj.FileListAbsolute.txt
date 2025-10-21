@@ -1,0 +1,15 @@
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\bin\Debug\net9.0\Question28.exe
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\bin\Debug\net9.0\Question28.deps.json
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\bin\Debug\net9.0\Question28.runtimeconfig.json
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\bin\Debug\net9.0\Question28.dll
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\bin\Debug\net9.0\Question28.pdb
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\Question28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\Question28.AssemblyInfoInputs.cache
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\Question28.AssemblyInfo.cs
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\Question28.csproj.CoreCompileInputs.cache
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\Question28.sourcelink.json
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\Question28.dll
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\refint\Question28.dll
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\Question28.pdb
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\Question28.genruntimeconfig.cache
+C:\Users\akour\Documents\Coding Projects\Project Euler\Question28\obj\Debug\net9.0\ref\Question28.dll
